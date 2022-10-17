@@ -1,0 +1,1 @@
+# osnovi_static
